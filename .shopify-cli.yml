@@ -1,0 +1,4 @@
+---
+project_type: :script
+extension_point_type: discount
+script_name: d1
